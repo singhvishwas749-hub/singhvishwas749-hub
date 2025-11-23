@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there! 👋 I'm Vishwas Singh
+💻 Frontend Developer | HTML | CSS | JavaScript | ReactJS
+🚀 Currently learning JavaScript, ReactJS, APIs, and Responsive Web Design
 
-<!--
-**singhvishwas749-hub/singhvishwas749-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I Do
+- Build clean & responsive websites
+- Convert UI/UX designs into functional pages
+- Learn and practice modern frontend concepts
+- Work on personal projects
 
-Here are some ideas to get you started:
+### What I'm Working On
+- Improving my React skills
+- Building multiple frontend projects
+- Learning Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+HTML | CSS | JavaScript | ReactJS | Git | GitHub
+
+### Looking For
+Part-time / Internship opportunities in Frontend Development
